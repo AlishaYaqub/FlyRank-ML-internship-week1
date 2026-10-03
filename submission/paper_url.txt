@@ -1,2 +1,1 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
 https://alishayaqub.github.io/FlyRank-ML-internship-week1/
